@@ -5,3 +5,4 @@ a = 30;
 let valore = 32;
 console.log(valore);
 const persona = 'atlus';
+let cane = 15;

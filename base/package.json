@@ -1,15 +1,15 @@
 {
-  "devDependencies": {
-    "typescript": "^5.5.4"
-  },
-  "name": "typescript_01_intro",
+  "name": "base",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "demo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
 }
