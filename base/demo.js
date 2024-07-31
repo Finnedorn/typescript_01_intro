@@ -1,3 +1,4 @@
+"use strict";
 // creiamo la nostra prima variabile in ts 
 let a = 10;
 let nome = 'daniele';
@@ -6,3 +7,4 @@ let valore = 32;
 console.log(valore);
 const persona = 'atlus';
 let cane = 15;
+console.log(a);

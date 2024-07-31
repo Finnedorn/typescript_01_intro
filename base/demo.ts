@@ -8,3 +8,4 @@ let valore:number = 32;
 console.log(valore);
 const persona:string = 'atlus';
 let cane:number = 15;
+console.log(a);
